@@ -12,13 +12,6 @@
         "label": "AGG-SA-KHI-A-KHIA1"
       },
       "geometry": {
-    "type": "Point",
-    "coordinates": [
-      67.011746,
-      24.875855
-    ]
-  },
-      "geometry": {
         "coordinates": [
           [
             [
@@ -126,6 +119,20 @@
         "type": "Polygon"
       },
       "id": 0
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "label": "AGG-SA-KHI-A-KHIA1"
+      },
+      "geometry": {
+        "coordinates": [
+          67.01764271286697,
+          24.876455184329615
+        ],
+        "type": "Point"
+      },
+      "id": 1
     }
   ]
 }
