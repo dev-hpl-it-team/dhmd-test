@@ -12,6 +12,13 @@
         "label": "AGG-SA-KHI-A-KHIA1"
       },
       "geometry": {
+    "type": "Point",
+    "coordinates": [
+      67.011746,
+      24.875855
+    ]
+  },
+      "geometry": {
         "coordinates": [
           [
             [
