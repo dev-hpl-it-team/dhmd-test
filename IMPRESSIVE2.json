@@ -133,6 +133,58 @@
         "type": "Point"
       },
       "id": 1
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "stroke": "#555555",
+        "stroke-width": 2,
+        "stroke-opacity": 1,
+        "fill": "#555555",
+        "fill-opacity": 0.5,
+        "name": "AGG-SA-KHI-A-KHIA1"
+      },
+      "geometry": {
+        "coordinates": [
+          [
+            [
+              67.04782781913954,
+              24.802829884807025
+            ],
+            [
+              67.05411755649394,
+              24.788999024117487
+            ],
+            [
+              67.06058852867895,
+              24.80421114848322
+            ],
+            [
+              67.04782781913954,
+              24.802829884807025
+            ]
+          ]
+        ],
+        "type": "Polygon"
+      },
+      "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "marker-color": "#7e7e7e",
+        "marker-size": "medium",
+        "marker-symbol": "circle",
+        "name": "AGG-SA-KHI-A-KHIA1"
+      },
+      "geometry": {
+        "coordinates": [
+          67.05430553550167,
+          24.799371594322793
+        ],
+        "type": "Point"
+      },
+      "id": 3
     }
   ]
 }
