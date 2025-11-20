@@ -9,7 +9,7 @@
         "stroke-opacity": 1,
         "fill": "#f31212",
         "fill-opacity": 0.2,
-        "label": "AGG-SA-KHI-A-KHIA1"
+        "name": "AGG-SA-KHI-A-KHIA1"
       },
       "geometry": {
         "coordinates": [
