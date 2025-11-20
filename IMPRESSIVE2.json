@@ -137,7 +137,7 @@
     {
       "type": "Feature",
       "properties": {
-      "stroke": "#555555",
+        "stroke": "#555555",
         "stroke-width": 3,
         "stroke-opacity": 1,
         "fill": "#f31212",
@@ -236,6 +236,20 @@
         "type": "Polygon"
       },
       "id": 2
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "AGG-SA-KHI-A-KHIA2"
+      },
+      "geometry": {
+        "coordinates": [
+          67.06725856827072,
+          24.78986214785185
+        ],
+        "type": "Point"
+      },
+      "id": 3
     }
   ]
 }
