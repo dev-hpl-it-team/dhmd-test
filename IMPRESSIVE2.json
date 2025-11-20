@@ -7,7 +7,7 @@
         "stroke": "#555555",
         "stroke-width": 3,
         "stroke-opacity": 1,
-        "fill": "#f31212",
+        "fill": "#1a6cb3",
         "fill-opacity": 0.2,
         "name": "AGG-SA-KHI-A-KHIA1"
       },
@@ -123,7 +123,7 @@
     {
       "type": "Feature",
       "properties": {
-        "label": "AGG-SA-KHI-A-KHIA1"
+        "name": "AGG-SA-KHI-A-KHIA1"
       },
       "geometry": {
         "coordinates": [
